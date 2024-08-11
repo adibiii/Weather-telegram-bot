@@ -1,0 +1,64 @@
+{
+  "queryCost": 1,
+  "latitude": 35.5113,
+  "longitude": 46.1687,
+  "resolvedAddress": "Marivan, Iran",
+  "address": "marivan,iran",
+  "timezone": "Asia/Tehran",
+  "tzoffset": 3.5,
+  "days": [
+    {
+      "datetime": "2024-05-11",
+      "datetimeEpoch": 1715373000,
+      "tempmax": 78.7,
+      "tempmin": 48.1,
+      "temp": 64.8,
+      "feelslikemax": 78.7,
+      "feelslikemin": 45.5,
+      "feelslike": 64.6,
+      "dew": 44.5,
+      "humidity": 54.7,
+      "precip": 0.0,
+      "precipprob": 25.8,
+      "precipcover": 0.0,
+      "preciptype": null,
+      "snow": 0.0,
+      "snowdepth": 0.0,
+      "windgust": 11.0,
+      "windspeed": 11.4,
+      "winddir": 163.6,
+      "pressure": 1016.1,
+      "cloudcover": 40.0,
+      "visibility": 11.0,
+      "solarradiation": 307.3,
+      "solarenergy": 26.4,
+      "uvindex": 10.0,
+      "severerisk": 10.0,
+      "sunrise": "05:23:46",
+      "sunriseEpoch": 1715392426,
+      "sunset": "19:20:13",
+      "sunsetEpoch": 1715442613,
+      "moonphase": 0.1,
+      "conditions": "Partially cloudy",
+      "description": "Partly cloudy throughout the day.",
+      "icon": "partly-cloudy-day",
+      "stations": [
+        "ORSU",
+        "remote"
+      ],
+      "source": "comb"
+    }
+  ],
+  "stations": {
+    "ORSU": {
+      "distance": 77153.0,
+      "latitude": 35.57,
+      "longitude": 45.32,
+      "useCount": 0,
+      "id": "ORSU",
+      "name": "ORSU",
+      "quality": 48,
+      "contribution": 0.0
+    }
+  }
+}
